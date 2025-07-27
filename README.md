@@ -99,8 +99,3 @@ Each service includes integration and unit tests with JUnit 5 and Mockito.
 
 ## ✨ Contributing
 Pull requests are welcome. For major changes, please open an issue first.
-
----
-
-## 📄 License
-[MIT](LICENSE)
